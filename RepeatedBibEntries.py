@@ -1,5 +1,3 @@
-import sys
-import numpy as np
 
 # original file containing repeated entries that could be the result of joining multiple bib files
 # this code assumes a well behaved bibtex file i.e. entry types are lowercase and the standard layout.
